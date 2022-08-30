@@ -4,28 +4,28 @@
 * The purpose of this presentation is to help a bike-sharing startup in Des Moines, Iowa with a business proposal to potential investors. They have requested data on the CitiBike bike sharing service in New York City to assist with this proposal. Click the link [here](https://public.tableau.com/app/profile/bryant.klewer/viz/NYCCitiBikeChallenge_16615669547270/NYCCitiBikeStory) to see the presentation.
 
 ## Results
-* Checkout times of users
+* Checkout times of users. This visualization shows the duration of time users rented bikes out for. 
 * ![viz1](https://github.com/BryantKlewer/bikesharing/blob/main/Pictures/viz1.png)
 
-* Checkout times by gender
+* Checkout times by gender. This visualization shows the duration of time users of each gender rented bikes for. 
 * ![viz2](https://github.com/BryantKlewer/bikesharing/blob/main/Pictures/viz2.png)
 
-* Trips by weekday per hour
+* Trips by weekday per hour. This visualization utilizes a heat map showing the busiest times for bike rentals. The darker the color the busier the time. 
 * ![viz3](https://github.com/BryantKlewer/bikesharing/blob/main/Pictures/viz3.png)
 
-* Trips by gender, weekday per hour
+* Trips by gender, weekday per hour. This visualization utilizes a heat map showing the busiest times for bike rentals by gender. The darker the color the busier the time.
 * ![viz4](https://github.com/BryantKlewer/bikesharing/blob/main/Pictures/viz4.png)
 
-* User trips by gender by weekday
+* User trips by gender by weekday. This visualization utilizes a heat map showing the busiest times for bike rentals by user type and gender. The darker the color the busier the time.
 * ![viz5](https://github.com/BryantKlewer/bikesharing/blob/main/Pictures/viz5.png)
 
-* August peak rental hours
+* August peak rental hours. This visualization shows the number of bikes rented per hour on average during the month of August.
 * ![viz6](https://github.com/BryantKlewer/bikesharing/blob/main/Pictures/viz6.png)
 
-* Top starting locations
+* Top starting locations. This visualization shows the top starting locations. The darker and larger the dot, the busier the start point.
 * ![viz7](https://github.com/BryantKlewer/bikesharing/blob/main/Pictures/viz7.png)
 
-* Top ending locations
+* Top ending locations. This visualization shows the top ending locations. The darker and larger the dot, the busier the end point.
 * ![viz8](https://github.com/BryantKlewer/bikesharing/blob/main/Pictures/viz8.png)
 
 ## Summary
